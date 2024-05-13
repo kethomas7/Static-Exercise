@@ -6,7 +6,7 @@
         {
             
             var Farenheit = TempConverter.CeliusToFahernheit(27.3);
-            var Celius = TempConverter.FaherenheitToCelius(87.5);
+            var Celius = TempConverter.FaherenheitToCelius(81.14);
 
             Console.WriteLine($"Here is the Celius Converted to Fehernheit:{Farenheit}F");
             Console.WriteLine($"Here is the Fahrenheit converted to Celius:{Celius}C");
